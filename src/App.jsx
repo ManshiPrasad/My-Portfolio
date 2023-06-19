@@ -26,13 +26,13 @@ import "./styles.css";
 const siteProps = {
   name: "Manshi Prasad",
   title: "Web Developer & Technical Writer",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  email: "manshiprasad60@gmail.com",
+  gitHub: "ManshiPrasad",
+  instagram: "",
+  linkedIn: "manshi-prasad-a99b4b228/",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "Manship21",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
